@@ -1,4 +1,4 @@
- { “name” : “DeWex”,
+ { “name” : “DeWex”, <br>
    “role” : “Frontend Dev”,
    “data” : 
      { 
