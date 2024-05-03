@@ -27,6 +27,10 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado del diseño y del desarrollo
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DeWexDC7&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
 
+#### 🎧 ¡Amo la música! | Escuchando ahora en Spotify
+<!-- Spotify Playing Widget -->
+[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=DeWexDC7&icon=0&color=0)](https://visitcount.itsvg.in)
 
