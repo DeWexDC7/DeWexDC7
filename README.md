@@ -1,20 +1,20 @@
-# 💫 About Me:
+# 💫 Sobre mí:
 ¡Hola, soy Daniel! 🌟
 
-<br><br>🎨 Diseñador UX/UI | 💻 Desarrollador Web | 🌱 Mentor
+<br>🎨 Diseñador UX/UI | 💻 Desarrollador Web | 🌱 Mentor
 
-<br><br>Bienvenido a mi perfil de GitHub. Soy un apasionado del diseño y del desarrollo web, creando experiencias digitales simples y efectivas. Amo lo que hago y disfruto cada proyecto en el que pongo mis manos.
+<br>Bienvenido a mi perfil de GitHub. Soy un apasionado del diseño y del desarrollo web, creando experiencias digitales simples y efectivas. Amo lo que hago y disfruto cada proyecto en el que pongo mis manos.
 
-<br><br>👨‍🎨 Diseñador UX/UI:Desde que comencé como diseñador independiente hace 5 años, he trabajado remotamente para varias agencias, asesorado startups y colaborado con talentos increíbles para crear productos digitales que no solo sirven a empresas, sino también a usuarios generales. Mis áreas de especialización incluyen UX, UI, diseño web y de apps. Utilizo herramientas como Figma, Krita y Adobe XD para transformar ideas en hermosas realidades visuales.
+<br>👨‍🎨 Diseñador UX/UI:Desde que comencé como diseñador independiente hace 5 años, he trabajado remotamente para varias agencias, asesorado startups y colaborado con talentos increíbles para crear productos digitales que no solo sirven a empresas, sino también a usuarios generales. Mis áreas de especialización incluyen UX, UI, diseño web y de apps. Utilizo herramientas como Figma, Krita y Adobe XD para transformar ideas en hermosas realidades visuales.
 
 
-<br><br>💻 Desarrollador Web: Como desarrollador frontend, disfruto de codificar desde cero y traer a la vida las ideas en el navegador. Mis tecnologías incluyen HTML5, CSS, Bootstrap, Tailwind, AWS y GIT. Manejo lenguajes de programación como SQL, PHP, C y JavaScript.
+<br>💻 Desarrollador Web: Como desarrollador frontend, disfruto de codificar desde cero y traer a la vida las ideas en el navegador. Mis tecnologías incluyen HTML5, CSS, Bootstrap, Tailwind, AWS y GIT. Manejo lenguajes de programación como SQL, PHP, C y JavaScript.
 
-<br><br>🌱 Mentor: Mi compromiso va más allá de la tecnología; me dedico a ayudar a otros a crecer profesionalmente. Con más de 3 años de experiencia como mentor, he dirigido cursos y tutorías, ayudando a más de 30 estudiantes a mejorar sus habilidades en UX/UI, domótica y seguridad informática.
+<br>🌱 Mentor: Mi compromiso va más allá de la tecnología; me dedico a ayudar a otros a crecer profesionalmente. Con más de 3 años de experiencia como mentor, he dirigido cursos y tutorías, ayudando a más de 30 estudiantes a mejorar sus habilidades en UX/UI, domótica y seguridad informática.
 
-<br><br>📬 ¡Conectemos!: Si estás buscando colaborar en proyectos innovadores o necesitas un mentor, no dudes en contactarme. Juntos podemos llevar tus ideas a nuevas alturas.
+<br>📬 ¡Conectemos!: Si estás buscando colaborar en proyectos innovadores o necesitas un mentor, no dudes en contactarme. Juntos podemos llevar tus ideas a nuevas alturas.
 
-<br><br>
+<br>
 🔗**[Portafolio](https://dewexdc7.github.io/portafolio/)** | 📧 danieleduardo1402@outlook.com | 📞 +593 963689114
 
 
