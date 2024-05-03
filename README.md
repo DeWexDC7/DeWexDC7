@@ -11,7 +11,7 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado del diseño y del desarrollo
 
 📬 ¡Conectemos!: Si estás buscando colaborar en proyectos innovadores o necesitas un mentor, no dudes en contactarme. Juntos podemos llevar tus ideas a nuevas alturas.
 
-🔗**[Portafolio](https://dewexdc7.github.io/portafolio/)** | 📧 danieleduardo1402@outlook.com | 📞 +593 963689114
+🔗**[Portafolio](https://dewexdc7.github.io/portafolio/)** | 📧 danieleduardo1402@outlook.com 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-chávez-vásquez/) 
