@@ -1,7 +1,7 @@
 # 💫 Sobre mí:
 ¡Hola, soy Daniel! 🌟
 
-🎨 Diseñador UX/UI | 💻 Desarrollador Web | 🌱 Mentor
+🎨 Diseñador UX/UI | 💻 Desarrollador Web 
 
 Bienvenido a mi perfil de GitHub. Soy un apasionado del diseño y del desarrollo web, creando experiencias digitales simples y efectivas. Amo lo que hago y disfruto cada proyecto en el que pongo mis manos.
 
@@ -9,12 +9,9 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado del diseño y del desarrollo
 
 💻 Desarrollador Web: Como desarrollador frontend, disfruto de codificar desde cero y traer a la vida las ideas en el navegador. Mis tecnologías incluyen HTML5, CSS, Bootstrap, Tailwind, AWS y GIT. Manejo lenguajes de programación como SQL, PHP, C y JavaScript.
 
-🌱 Mentor: Mi compromiso va más allá de la tecnología; me dedico a ayudar a otros a crecer profesionalmente. Con más de 3 años de experiencia como mentor, he dirigido cursos y tutorías, ayudando a más de 30 estudiantes a mejorar sus habilidades en UX/UI, domótica y seguridad informática.
-
 📬 ¡Conectemos!: Si estás buscando colaborar en proyectos innovadores o necesitas un mentor, no dudes en contactarme. Juntos podemos llevar tus ideas a nuevas alturas.
 
 🔗**[Portafolio](https://dewexdc7.github.io/portafolio/)** | 📧 danieleduardo1402@outlook.com | 📞 +593 963689114
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-chávez-vásquez/) 
