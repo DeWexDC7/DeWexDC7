@@ -1,5 +1,6 @@
 # 💫 Sobre mí:
 ¡Hola, soy Daniel! 🌟
+
 🎨 Diseñador UX/UI | 💻 Desarrollador Web | 🌱 Mentor
 
 <br>Bienvenido a mi perfil de GitHub. Soy un apasionado del diseño y del desarrollo web, creando experiencias digitales simples y efectivas. Amo lo que hago y disfruto cada proyecto en el que pongo mis manos.
