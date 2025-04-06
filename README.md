@@ -1,15 +1,17 @@
-# 💫 Sobre mí:
-¡Hola, soy Daniel! 🌟
-<p align="justify">
-🎨 Diseñador UX/UI | 💻 Desarrollador Web 
+💫 Sobre mí:
+¡Hola, soy Daniel! 🧠
 
-Bienvenido a mi perfil de GitHub. Soy un apasionado del diseño y del desarrollo web, creando experiencias digitales simples y efectivas. Amo lo que hago y disfruto cada proyecto en el que pongo mis manos.
+<p align="justify"> 🔧 Desarrollador Backend | 📊 Especialista en Procesos ETL y Manejo de Datos
+Bienvenido a mi perfil de GitHub. Soy un apasionado del desarrollo backend y la ingeniería de datos, con un fuerte enfoque en la automatización de flujos ETL, la transformación de datos complejos y la creación de soluciones escalables para entornos de alto volumen.
 
-👨‍🎨 Diseñador UX/UI:Desde que comencé como diseñador independiente hace 5 años, he trabajado remotamente para varias agencias, asesorado startups y colaborado con talentos increíbles para crear productos digitales que no solo sirven a empresas, sino también a usuarios generales. Mis áreas de especialización incluyen UX, UI, diseño web y de apps. Utilizo herramientas como Figma, Krita y Adobe XD para transformar ideas en hermosas realidades visuales.
+👨‍💻 Procesos ETL y Manejo de Datos:
+Durante los últimos años, he liderado la implementación de pipelines robustos de datos, tanto batch como en tiempo real, integrando tecnologías como Python, SQL, Oracle, PostgreSQL, y herramientas como Airflow, Bash, Pandas y ora2pg. He trabajado en migraciones complejas, sincronización entre bases heterogéneas y optimización de transformaciones de gran volumen, siempre buscando eficiencia y trazabilidad.
 
-💻 Desarrollador Web: Como desarrollador frontend, disfruto de codificar desde cero y traer a la vida las ideas en el navegador. Mis tecnologías incluyen HTML5, CSS, Bootstrap, Tailwind, AWS y GIT. Manejo lenguajes de programación como SQL, PHP, C y JavaScript.
+🛠️ Automatización y DevOps:
+Soy firme creyente de la automatización total: desde scripts Bash para tareas periódicas hasta contenedores Docker que encapsulan procesos críticos, pasando por el uso de crontabs inteligentes, GitOps, y control de versiones riguroso. Me desenvuelvo bien en Linux y tengo experiencia manejando despliegues en entornos híbridos y servidores autogestionados.
 
-📬 ¡Conectemos!: Si estás buscando colaborar en proyectos innovadores o necesitas un mentor, no dudes en contactarme. Juntos podemos llevar tus ideas a nuevas alturas.
+💬 Colaboración técnica:
+Disfruto compartir soluciones, documentar procesos, y crear herramientas reutilizables. Si necesitas colaborar en un proyecto de migración, quieres integrar bases de datos dispares o buscas acelerar tus flujos de datos, podemos trabajar juntos.
 
 🔗**[Portafolio](https://dewexdc7.github.io/portafolio/)** | 📧 danieleduardo1402@outlook.com </p>
 
